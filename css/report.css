@@ -15,6 +15,33 @@ h1 {
     text-decoration: underline;
 }
 
+h5 {
+  font-size: 20px;
+  font-family: 'Courier New';
+  color: #7289da;
+  text-align: left;
+  text-decoration: underline;
+}
+
+h4 {
+font-size: 25px;
+font-family: 'Courier New';
+color: green;
+text-align: center;
+text-decoration: underline;
+}
+
+
+p {
+  color: white;
+  font-family: 'Courier New';
+  position: relative;
+  top: 2cm;
+  left: 50px;
+  font-size: 18px;
+  text-decoration: underline;
+}
+
 
 * {
     margin: 0;
